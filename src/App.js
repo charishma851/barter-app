@@ -64,7 +64,7 @@ function FaceLock({ onUnlock }) {
 
 function App() {
 
-  const [faceUnlock, setFaceUnlock] = useState(false);
+
   const [showCaptcha, setShowCaptcha] = useState(true);
 
   const [positions, setPositions] = useState({});
