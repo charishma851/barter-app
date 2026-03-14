@@ -44,6 +44,7 @@ transition: transform 0.1s linear;
 /* PANIC ANIMATION */
 .panic {
   animation: shake 0.2s infinite;
+  display: inline-block;
 }
 
 @keyframes shake {
