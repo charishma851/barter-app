@@ -1,0 +1,5 @@
+{
+  "routes": [
+    { "src": "/models/(.*)", "dest": "/models/$1" }
+  ]
+}
